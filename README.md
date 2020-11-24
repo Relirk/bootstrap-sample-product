@@ -1,4 +1,4 @@
-# FIAP Bootstrap - Product
+# FIAP Bootstrap - Template Product
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Relirk/fiap-bootstrap-sample-product">
 
@@ -16,6 +16,12 @@
 </p>
 
 Este repositório contém um template Bootstrap de Pruduto editado com alguns textos e imagens referentes ao Startup One.
+
+# Produto
+### Solução: mobilidade urbana para motociclistas
+
+HUD interativo de capacete, app de configuração, integração com Alexa. 
+
 
 Equipe: 
 - Francisco Olvera 	- RM 338050
