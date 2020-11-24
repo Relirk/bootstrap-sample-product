@@ -15,7 +15,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-Este repositório contém um template Bootstrap de Pruduto editado com alguns textos e imagens referentes ao Startup One.
+Este repositório contém um template Bootstrap de Produto editado com alguns textos e imagens referentes ao Startup One.
 
 # Produto
 ### Solução: mobilidade urbana para motociclistas
