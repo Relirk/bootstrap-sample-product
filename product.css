@@ -64,11 +64,27 @@
   -ms-flex: 1;
   flex: 1;
 }
+
+.img-control {
+  width: 80%; 
+  height: 300px; 
+  border-radius: 21px 21px 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 @media (min-width: 768px) {
   .flex-md-equal > * {
     -ms-flex: 1;
     flex: 1;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  .img-control {
+    height: 150px;
+  
+  }
+ }
 
 .overflow-hidden { overflow: hidden; }
