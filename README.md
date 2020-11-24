@@ -22,6 +22,15 @@ Este repositório contém um template Bootstrap de Produto editado com alguns te
 
 HUD interativo de capacete, app de configuração, integração com Alexa. 
 
+# História
+
+Analisando algumas das necessidades atuais dos motociclistas, temos refletido sobre tais afirmações:
+- O motociclista tem dificuldade para desviar o olhar para um device normalmente preso no guidão, pois tira frequentemente sua atenção da via;
+- Qual preso no guidão, não é possível ouvir os avisos sonoros;
+- Segurança de não ser assaltado ou deixar o dispositivo móvel cair na via;
+- Preço mais acessível.
+ 
+
 
 Equipe: 
 - Francisco Olvera 	- RM 338050
